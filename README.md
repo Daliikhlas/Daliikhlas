@@ -1,129 +1,139 @@
 
-<!-- ===================== HEADER ===================== -->
+<!-- ==================== IKHLAS DALI | PROFILE README ==================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:24104a,100:075985&height=220&section=header&text=IKHLAS%20DALI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Second-Year+Computer+Science+Student;Currently+Learning+Python%2C+Java+%26+C;Exploring+the+World+of+Technology;Dream+Big.+Code.+Build.+Repeat." alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:24104A,100:075985&height=220&section=header&text=IKHLAS%20DALI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Second-Year+Computer+Science+Student;Currently+Learning+Python%2C+Java+%26+C;Exploring+the+World+of+Technology;Dream+Big.+Code.+Build.+Repeat." alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- PROFILE BUTTONS -->
+
 <a href="https://github.com/Daliikhlas">
-  <img src="https://img.shields.io/badge/GitHub-Daliikhlas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-DALIIKHLAS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/dali-ikhlas-8259b1387/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Daliikhlas&style=for-the-badge&color=8957e5&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Daliikhlas&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<!-- ==================== ABOUT ME ==================== -->
 
-```yaml
-name: Ikhlas Dali
-role: Computer Science Engineering Student
-university: Ferhat Abbas University
-location: Setif, Algeria
-year: Second Year
-personality: Ambitious
-currently_learning:
-  - Python
-  - Java
-  - C
-interests:
-  - Software Engineering
-  - Programming
-  - Technology
-  - Continuous Learning
-```
+<h2 align="center">👩‍💻 ABOUT ME</h2>
 
-- 🎓 Second-year Computer Science Engineering student at **Ferhat Abbas University**, Setif.
-- 💻 Building my programming foundations and exploring different areas of computer science.
-- 🌱 Currently learning **Python, Java, and C**.
-- 🔍 Exploring new technologies and discovering my future specialization.
-- 🚀 Passionate about learning, improving, and turning ideas into reality.
+<div align="center">
+
+<img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-STUDENT-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="Computer Science Student"/>
+<img src="https://img.shields.io/badge/SECOND%20YEAR-UNIVERSITY-2563EB?style=for-the-badge&logo=bookstack&logoColor=white" alt="Second Year"/>
+<img src="https://img.shields.io/badge/LOCATION-ALGERIA-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Algeria"/>
+
+</div>
+
+Hello! I'm **Ikhlas Dali**, a second-year Computer Science Engineering student at **Ferhat Abbas University**, Setif, Algeria.
+
+I'm passionate about technology, programming, and continuous learning. I'm currently building my programming foundations, exploring different areas of computer science, and working toward my future career in software engineering.
+
+- 🎓 Computer Science Engineering Student
+- 💻 Learning programming and software development
+- 🌱 Currently learning Python, Java, and C
+- 🔍 Exploring different fields in computer science
+- 🚀 Ambitious, curious, and always eager to improve
 
 ---
 
-## 🎓 Education
+<!-- ==================== EDUCATION ==================== -->
+
+<h2 align="center">🎓 EDUCATION</h2>
 
 <div align="center">
 
 <a href="https://www.univ-setif.dz/">
-  <img src="https://img.shields.io/badge/University-Ferhat%20Abbas%20University-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University"/>
+  <img src="https://img.shields.io/badge/UNIVERSITY-FERHAT%20ABBAS-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Ferhat Abbas University"/>
 </a>
-<img src="https://img.shields.io/badge/Field-Computer%20Science-2563EB?style=for-the-badge&logo=academia&logoColor=white" alt="Field"/>
-<img src="https://img.shields.io/badge/Level-Second%20Year-0891B2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Level"/>
+<img src="https://img.shields.io/badge/FIELD-COMPUTER%20SCIENCE-2563EB?style=for-the-badge&logo=academia&logoColor=white" alt="Computer Science"/>
+<img src="https://img.shields.io/badge/LEVEL-SECOND%20YEAR-0891B2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Second Year"/>
 
 </div>
 
 ---
 
-## 💻 Tech Stack & Tools
+<!-- ==================== TECH STACK ==================== -->
 
-### 📚 Currently Learning
+<h2 align="center">💻 TECH STACK</h2>
+
+<h3 align="center">📚 Currently Learning</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C-Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/PYTHON-LEARNING-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JAVA-LEARNING-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C-LEARNING-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
 
 </div>
 
-### 🛠️ Tools I Use
+<h3 align="center">🛠️ Tools I Use</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/LINUX-181717?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 </div>
 
 ---
 
-## 🎯 Goals & Ambitions
+<!-- ==================== GOALS ==================== -->
+
+<h2 align="center">🎯 GOALS & AMBITIONS</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Academic%20Excellence-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="Academic Excellence"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-2563EB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Software Engineering"/>
-<img src="https://img.shields.io/badge/Global%20Tech%20Career-0891B2?style=for-the-badge&logo=google&logoColor=white" alt="Global Tech Career"/>
-<img src="https://img.shields.io/badge/International%20Opportunities-9333EA?style=for-the-badge&logo=globe&logoColor=white" alt="International Opportunities"/>
-<img src="https://img.shields.io/badge/Lifelong%20Learning-0D9488?style=for-the-badge&logo=bookstack&logoColor=white" alt="Lifelong Learning"/>
+<img src="https://img.shields.io/badge/01-ACADEMIC%20EXCELLENCE-7C3AED?style=for-the-badge" alt="Academic Excellence"/>
+<img src="https://img.shields.io/badge/02-SOFTWARE%20ENGINEERING-2563EB?style=for-the-badge" alt="Software Engineering"/>
+<img src="https://img.shields.io/badge/03-GLOBAL%20TECH%20CAREER-0891B2?style=for-the-badge" alt="Global Tech Career"/>
+<img src="https://img.shields.io/badge/04-INTERNATIONAL%20OPPORTUNITIES-9333EA?style=for-the-badge" alt="International Opportunities"/>
+<img src="https://img.shields.io/badge/05-LIFELONG%20LEARNING-0D9488?style=for-the-badge" alt="Lifelong Learning"/>
 
 </div>
 
 - 📖 Excel in my academic journey.
 - 👩‍💻 Become a professional software engineer.
-- 🌍 Pursue opportunities to study or work internationally.
-- 🏢 Build a career in a global technology company.
-- 🌱 Keep learning, growing, and challenging myself.
+- 🌍 Pursue opportunities to study or work abroad.
+- 🏢 Build a career in an international technology company.
+- 🌱 Continue learning, growing, and challenging myself.
 
 ---
 
-## 🚀 Projects
+<!-- ==================== PROJECTS ==================== -->
+
+<h2 align="center">🚀 PROJECTS</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Projects-Coming%20Soon-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Projects Coming Soon"/>
+<img src="https://img.shields.io/badge/PROJECTS-COMING%20SOON-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Projects Coming Soon"/>
+
+<br/><br/>
+
+I'm currently developing my programming skills and preparing to build my first projects.
+
+**Stay tuned for what's coming next!**
 
 </div>
 
-I'm currently strengthening my programming skills and working toward creating my first projects.
-
-Stay tuned for my upcoming work!
-
 ---
 
-## 📊 GitHub Statistics
+<!-- ==================== GITHUB STATS ==================== -->
+
+<h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <div align="center">
 
@@ -144,7 +154,9 @@ Stay tuned for my upcoming work!
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
 <div align="center">
 
@@ -154,18 +166,22 @@ Stay tuned for my upcoming work!
 
 ---
 
-## 🌐 Languages
+<!-- ==================== LANGUAGES ==================== -->
+
+<h2 align="center">🌐 LANGUAGES</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Arabic-Native-16A34A?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Arabic"/>
-<img src="https://img.shields.io/badge/English-Conversational-2563EB?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English"/>
+<img src="https://img.shields.io/badge/ARABIC-NATIVE-16A34A?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Arabic Native"/>
+<img src="https://img.shields.io/badge/ENGLISH-CONVERSATIONAL-2563EB?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Conversational"/>
 
 </div>
 
 ---
 
-## 💜 A Little Motivation
+<!-- ==================== MOTIVATION ==================== -->
+
+<h2 align="center">💜 MY MOTTO</h2>
 
 <div align="center">
 
@@ -173,18 +189,22 @@ Stay tuned for my upcoming work!
 
 <br/>
 
-<img src="https://img.shields.io/badge/Think-Big-7C3AED?style=for-the-badge" alt="Think Big"/>
-<img src="https://img.shields.io/badge/Keep-Learning-2563EB?style=for-the-badge" alt="Keep Learning"/>
-<img src="https://img.shields.io/badge/Never-Give%20Up-0891B2?style=for-the-badge" alt="Never Give Up"/>
+<img src="https://img.shields.io/badge/THINK-BIG-7C3AED?style=for-the-badge" alt="Think Big"/>
+<img src="https://img.shields.io/badge/KEEP-LEARNING-2563EB?style=for-the-badge" alt="Keep Learning"/>
+<img src="https://img.shields.io/badge/NEVER-GIVE%20UP-0891B2?style=for-the-badge" alt="Never Give Up"/>
 
 <br/><br/>
 
 <a href="https://github.com/Daliikhlas">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-181717?style=for-the-badge&logo=github&logoColor=white" alt="Thanks for visiting"/>
+  <img src="https://img.shields.io/badge/THANKS%20FOR%20VISITING-181717?style=for-the-badge&logo=github&logoColor=white" alt="Thanks for visiting"/>
 </a>
 
 </div>
 
-<!-- ===================== FOOTER ===================== -->
+<!-- ==================== FOOTER ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075985,50:24104a,100:090014&height=120&section=footer" width="100%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075985,50:24104A,100:090014&height=120&section=footer" width="100%" />
+
+</div>
