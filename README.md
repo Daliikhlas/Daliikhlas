@@ -1,23 +1,21 @@
 
-<!-- ==================== IKHLAS DALI | PROFILE README ==================== -->
+<!-- ================================================== -->
+<!--              IKHLAS DALI PROFILE                  -->
+<!-- ================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:24104A,100:075985&height=220&section=header&text=IKHLAS%20DALI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Second-Year+Computer+Science+Student;Currently+Learning+Python%2C+Java+%26+C;Exploring+the+World+of+Technology;Dream+Big.+Code.+Build.+Repeat." alt="Typing SVG" />
+<!-- MAIN NEON PROFILE POSTER -->
+<img src="./ikhlas-profile.png" width="100%" alt="Ikhlas Dali - Neon Computer Science Portfolio"/>
 
 <br/><br/>
 
-<!-- PROFILE BUTTONS -->
-
+<!-- CLICKABLE PROFILE BUTTONS -->
 <a href="https://github.com/Daliikhlas">
   <img src="https://img.shields.io/badge/GITHUB-DALIIKHLAS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/dali-ikhlas-8259b1387/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=Daliikhlas&style=for-the-badge&color=8957E5&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -25,57 +23,54 @@
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
-
-<h2 align="center">👩‍💻 ABOUT ME</h2>
+<!-- ABOUT ME -->
+<h2 align="center">💜 About Me</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-STUDENT-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="Computer Science Student"/>
-<img src="https://img.shields.io/badge/SECOND%20YEAR-UNIVERSITY-2563EB?style=for-the-badge&logo=bookstack&logoColor=white" alt="Second Year"/>
-<img src="https://img.shields.io/badge/LOCATION-ALGERIA-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Algeria"/>
+<img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-ENGINEERING-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/SECOND%20YEAR-STUDENT-2563EB?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/SETIF-ALGERIA-0891B2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
-Hello! I'm **Ikhlas Dali**, a second-year Computer Science Engineering student at **Ferhat Abbas University**, Setif, Algeria.
+Hi! I'm **Ikhlas Dali**, a second-year Computer Science Engineering student at **Ferhat Abbas University**, Setif, Algeria.
 
-I'm passionate about technology, programming, and continuous learning. I'm currently building my programming foundations, exploring different areas of computer science, and working toward my future career in software engineering.
+I'm passionate about technology, programming, and continuous learning. I'm building my skills step by step and exploring different fields of computer science.
 
-- 🎓 Computer Science Engineering Student
+- 🎓 Computer Science Engineering student
 - 💻 Learning programming and software development
 - 🌱 Currently learning Python, Java, and C
-- 🔍 Exploring different fields in computer science
-- 🚀 Ambitious, curious, and always eager to improve
+- 🔭 Exploring different areas of computer science
+- 💜 Ambitious, curious, and eager to grow
 
 ---
 
-<!-- ==================== EDUCATION ==================== -->
-
-<h2 align="center">🎓 EDUCATION</h2>
+<!-- EDUCATION -->
+<h2 align="center">🎓 Education</h2>
 
 <div align="center">
 
 <a href="https://www.univ-setif.dz/">
-  <img src="https://img.shields.io/badge/UNIVERSITY-FERHAT%20ABBAS-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Ferhat Abbas University"/>
+  <img src="https://img.shields.io/badge/UNIVERSITY-FERHAT%20ABBAS-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/FIELD-COMPUTER%20SCIENCE-2563EB?style=for-the-badge&logo=academia&logoColor=white" alt="Computer Science"/>
-<img src="https://img.shields.io/badge/LEVEL-SECOND%20YEAR-0891B2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Second Year"/>
+<img src="https://img.shields.io/badge/FIELD-COMPUTER%20SCIENCE-2563EB?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEVEL-SECOND%20YEAR-0891B2?style=for-the-badge&logo=bookstack&logoColor=white"/>
 
 </div>
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
-
-<h2 align="center">💻 TECH STACK</h2>
+<!-- SKILLS -->
+<h2 align="center">💻 Skills & Technologies</h2>
 
 <h3 align="center">📚 Currently Learning</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PYTHON-LEARNING-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JAVA-LEARNING-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C-LEARNING-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/PYTHON-LEARNING-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-LEARNING-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-LEARNING-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 
 </div>
 
@@ -83,62 +78,59 @@ I'm passionate about technology, programming, and continuous learning. I'm curre
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LINUX-181717?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/LINUX-181717?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
 ---
 
-<!-- ==================== GOALS ==================== -->
-
-<h2 align="center">🎯 GOALS & AMBITIONS</h2>
+<!-- GOALS -->
+<h2 align="center">🎯 My Goals</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-ACADEMIC%20EXCELLENCE-7C3AED?style=for-the-badge" alt="Academic Excellence"/>
-<img src="https://img.shields.io/badge/02-SOFTWARE%20ENGINEERING-2563EB?style=for-the-badge" alt="Software Engineering"/>
-<img src="https://img.shields.io/badge/03-GLOBAL%20TECH%20CAREER-0891B2?style=for-the-badge" alt="Global Tech Career"/>
-<img src="https://img.shields.io/badge/04-INTERNATIONAL%20OPPORTUNITIES-9333EA?style=for-the-badge" alt="International Opportunities"/>
-<img src="https://img.shields.io/badge/05-LIFELONG%20LEARNING-0D9488?style=for-the-badge" alt="Lifelong Learning"/>
+<img src="https://img.shields.io/badge/01-ACADEMIC%20EXCELLENCE-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-SOFTWARE%20ENGINEERING-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-GLOBAL%20TECH%20CAREER-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-INTERNATIONAL%20OPPORTUNITIES-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/05-LIFELONG%20LEARNING-0D9488?style=for-the-badge"/>
 
 </div>
 
-- 📖 Excel in my academic journey.
-- 👩‍💻 Become a professional software engineer.
-- 🌍 Pursue opportunities to study or work abroad.
-- 🏢 Build a career in an international technology company.
-- 🌱 Continue learning, growing, and challenging myself.
+- 🚀 Excel in my academic journey
+- 👩‍💻 Become a professional software engineer
+- 🌍 Explore opportunities to study or work abroad
+- 🏢 Build a career in an international technology company
+- 🌱 Keep learning and improving every day
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
-
-<h2 align="center">🚀 PROJECTS</h2>
+<!-- PROJECTS -->
+<h2 align="center">🚀 Projects</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECTS-COMING%20SOON-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Projects Coming Soon"/>
+<img src="https://img.shields.io/badge/PROJECTS-COMING%20SOON-8957E5?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br/><br/>
 
-I'm currently developing my programming skills and preparing to build my first projects.
+I'm currently strengthening my programming foundations and preparing to build my first projects.
 
-**Stay tuned for what's coming next!**
+**Stay tuned for my upcoming work!**
 
 </div>
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
-
-<h2 align="center">📊 GITHUB STATISTICS</h2>
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
 <a href="https://github.com/Daliikhlas">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Daliikhlas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Daliikhlas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=E2E8F0" alt="GitHub Statistics"/>
 </a>
 <a href="https://github.com/Daliikhlas">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daliikhlas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Top Languages"/>
@@ -154,57 +146,48 @@ I'm currently developing my programming skills and preparing to build my first p
 
 ---
 
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
-
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+<!-- CONTRIBUTION SNAKE -->
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Daliikhlas/Daliikhlas/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Daliikhlas/Daliikhlas/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-<!-- ==================== LANGUAGES ==================== -->
-
-<h2 align="center">🌐 LANGUAGES</h2>
+<!-- LANGUAGES -->
+<h2 align="center">🌐 Languages</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ARABIC-NATIVE-16A34A?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Arabic Native"/>
-<img src="https://img.shields.io/badge/ENGLISH-CONVERSATIONAL-2563EB?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Conversational"/>
+<img src="https://img.shields.io/badge/ARABIC-NATIVE-16A34A?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+<img src="https://img.shields.io/badge/ENGLISH-CONVERSATIONAL-2563EB?style=for-the-badge&logo=googletranslate&logoColor=white"/>
 
 </div>
 
 ---
 
-<!-- ==================== MOTIVATION ==================== -->
-
-<h2 align="center">💜 MY MOTTO</h2>
+<!-- MOTTO -->
+<h2 align="center">💫 My Motto</h2>
 
 <div align="center">
 
 ### "Dream big, code with passion, and build the future you imagine."
 
-<br/>
-
-<img src="https://img.shields.io/badge/THINK-BIG-7C3AED?style=for-the-badge" alt="Think Big"/>
-<img src="https://img.shields.io/badge/KEEP-LEARNING-2563EB?style=for-the-badge" alt="Keep Learning"/>
-<img src="https://img.shields.io/badge/NEVER-GIVE%20UP-0891B2?style=for-the-badge" alt="Never Give Up"/>
+<img src="https://img.shields.io/badge/THINK-BIG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KEEP-LEARNING-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NEVER-GIVE%20UP-0891B2?style=for-the-badge"/>
 
 <br/><br/>
 
 <a href="https://github.com/Daliikhlas">
-  <img src="https://img.shields.io/badge/THANKS%20FOR%20VISITING-181717?style=for-the-badge&logo=github&logoColor=white" alt="Thanks for visiting"/>
+  <img src="https://img.shields.io/badge/THANKS%20FOR%20VISITING%20MY%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
-<!-- ==================== FOOTER ==================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075985,50:24104A,100:090014&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:075985,50:24104A,100:090014&height=120&section=footer" width="100%"/>
 
 </div>
