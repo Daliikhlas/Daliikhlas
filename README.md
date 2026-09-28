@@ -1,131 +1,168 @@
 <!--
   IKHLAS DALI | GitHub Profile README
-  Theme: Midnight Cyber • Neon Purple (#8957e5) • Electric Blue (#00c6ff)
+  Theme: Midnight Cyber • Neon Purple • Electric Blue
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:090014,40:30105c,75:1457a6,100:090014&text=IKHLAS%20DALI&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=Computer%20Science%20Engineering%20Student%20%E2%80%A2%20Future%20Software%20Engineer&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Ikhlas Dali Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090014,35:30105c,70:1457a6,100:090014&text=IKHLAS%20DALI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Ikhlas Dali Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=B78AFF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Ikhlas+%F0%9F%91%8B;2nd-Year+CS+Engineering+Student+%40+Ferhat+Abbas+University;Learning+Python+%E2%80%A2+Java+%E2%80%A2+C;Building+strong+foundations%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing introduction"/>
+  <br/>
 
-<br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=B78AFF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Ikhlas+Dali+%F0%9F%91%8B;Second-Year+Computer+Science+Student;Ambitious+%7C+Curious+%7C+Always+Learning;Exploring+the+World+of+Technology+%F0%9F%9A%80" alt="Typing introduction"/>
 
-<a href="https://github.com/Daliikhlas"><img src="https://img.shields.io/badge/GitHub-Daliikhlas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/dali-ikhlas-8259b1387/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://komarev.com/ghpvc/?username=Daliikhlas&style=for-the-badge&color=8957e5&label=PROFILE+VIEWS" alt="Profile views"/>
+  <br/><br/>
 
-<br/><br/>
+  <a href="https://github.com/Daliikhlas">
+    <img src="assets/github-button.svg" width="280" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dali-ikhlas-8259b1387/">
+    <img src="assets/linkedin-button.svg" width="280" alt="LinkedIn"/>
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8957e5,100:00c6ff&height=3&section=header" width="75%" alt="divider"/>
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Daliikhlas&style=for-the-badge&color=8957e5&label=PROFILE+VIEWS" alt="Profile views"/>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8957e5,100:00c6ff&height=3&section=header" width="75%" alt="Neon divider"/>
 
 </div>
 
 ## 👩‍💻 About Me
 
-<img align="right" width="200" src="https://github.com/Daliikhlas.png" alt="Ikhlas Dali avatar"/>
+<img align="right" width="220" src="https://github.com/Daliikhlas.png" alt="Ikhlas Dali GitHub avatar"/>
 
-Hi, I'm **Ikhlas Dali** 👋 — a second-year **Computer Science Engineering** student at **Ferhat Abbas University, Sétif, Algeria 🇩🇿**.
+Hello! I'm **Ikhlas Dali**, an ambitious Computer Science Engineering student at **Ferhat Abbas University, Sétif, Algeria 🇩🇿**.
 
-I'm at the stage where I'm building my foundations: learning to think like a programmer, solve problems step by step, and turn what I study into real projects. My goal is to become a **professional software engineer** and, one day, work on products used around the world.
+I'm currently in my **second year of university**, beginning my journey into programming and exploring the fascinating world of computer science.
 
-```yaml
-name:        Ikhlas Dali
-studying:    Computer Science Engineering (Year 2)
-university:  Ferhat Abbas University, Sétif 🇩🇿
-learning:    [Python, Java, C, Linux, Git]
-languages:   [Arabic (native), English (improving)]
-goal:        Software Engineer 🚀
-```
+- 🎓 Second-Year Computer Science Engineering Student
+- 🏛️ Ferhat Abbas University, Sétif
+- 🌱 Currently learning Python, Java, and C
+- 🐧 Exploring Linux and development tools
+- 💻 Working with VS Code and GitHub
+- 🌍 Learning English and improving my communication skills
+- 🔭 Exploring different fields of computer science
+- 🚀 Aspiring Software Engineer
+- ✨ Ambitious, curious, and committed to continuous learning
 
 <br clear="right"/>
 
-## 🧰 Tech Stack & Tools
+## 🎓 Education
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+| | |
+|:--|:--|
+| 🎓 **Degree** | Computer Science Engineering |
+| 🏛️ **University** | Ferhat Abbas University |
+| 📍 **Location** | Sétif, Algeria 🇩🇿 |
+| 📚 **Academic Year** | Second Year |
+| 🌱 **Current Stage** | Learning & Exploring |
 
 </div>
 
-## 📈 Learning Progress
+## 💻 My Learning Journey
 
 <div align="center">
 
-| Focus | Status | Notes |
-|:------|:------:|:------|
-| 🐍 **Python** | 🟣 Learning | Syntax, data structures, small scripts |
-| ☕ **Java** | 🟣 Learning | Object-oriented programming basics |
-| ⚙️ **C** | 🟣 Learning | Memory, pointers, how computers work |
-| 🐧 **Linux & Terminal** | 🔵 Exploring | Command line and daily workflow |
-| 🌿 **Git & GitHub** | 🔵 Exploring | Commits, branches, keeping repos tidy |
-| 🧠 **Algorithms & Problem Solving** | ⚪ Next | Practice regularly, one problem at a time |
+  <img src="https://img.shields.io/badge/Python-Currently%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python learning"/>
+  <img src="https://img.shields.io/badge/Java-Currently%20Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java learning"/>
+  <img src="https://img.shields.io/badge/C-Currently%20Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C learning"/>
+
+  <br/><br/>
+
+  <img src="https://skillicons.dev/icons?i=linux,vscode,github&theme=dark" alt="Tools: Linux, VS Code, GitHub"/>
+
+  <br/>
+
+  <sub>Currently learning programming fundamentals and exploring development tools.</sub>
 
 </div>
 
-## 🎯 Current Focus
-
-- 📘 Mastering programming fundamentals in **Python, Java, and C**
-- 🧪 Practicing by writing small programs instead of only reading
-- 🐧 Getting comfortable with **Linux** and the terminal
-- 🌍 Improving my **English** for documentation and collaboration
-
-## 🚀 Goals
-
-<details open>
-<summary><b>Short term</b></summary>
-
-- Publish my first repositories with clear README files
-- Build a few small projects that solve real problems
-- Keep a consistent learning and commit routine
-
-</details>
-
-<details>
-<summary><b>Long term</b></summary>
-
-- Graduate as a strong Computer Science Engineer
-- Become a professional Software Engineer
-- Study or work abroad and join a global technology company
-- Collaborate with developers around the world
-
-</details>
-
-## 📂 Projects
+## 🌱 Currently Exploring
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Projects-Coming%20Soon-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Projects coming soon"/>
-
-<br/><br/>
-
-I'm turning what I learn into practical projects. New repositories will appear here as I build them.
-
-<a href="https://github.com/Daliikhlas?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My-Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/laptop-coding.png" width="55" alt="Programming"/>
+        <br/><b>Programming</b>
+        <br/><sub>Building strong foundations</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/linux.png" width="55" alt="Linux"/>
+        <br/><b>Linux</b>
+        <br/><sub>Exploring the command line</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/fluency/96/source-code.png" width="55" alt="Development"/>
+        <br/><b>Development</b>
+        <br/><sub>Discovering new technologies</sub>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
-## 📊 GitHub Stats
+## 🚀 My Goals & Ambitions
+
+- 🎯 Excel in my Computer Science Engineering studies.
+- 💻 Become a professional Software Engineer.
+- 🌍 Explore opportunities to study or work abroad.
+- 🏢 Aspire to work at a global technology company.
+- 🧠 Develop strong problem-solving and programming skills.
+- 🌱 Keep learning, experimenting, and growing.
+- 🤝 Connect and collaborate with developers worldwide.
+
+## 📂 My Projects
 
 <div align="center">
 
-<a href="https://github.com/Daliikhlas"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Daliikhlas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=bb86fc&icon_color=00c6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true" alt="GitHub stats"/></a>
-<a href="https://github.com/Daliikhlas"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daliikhlas&layout=compact&hide_border=true&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9" alt="Top languages"/></a>
+  <img src="https://img.shields.io/badge/Projects-Coming%20Soon-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Projects coming soon"/>
 
-<br/><br/>
+  <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Daliikhlas&theme=transparent&hide_border=true&background=0D1117&ring=8957E5&fire=00C6FF&currStreakLabel=BB86FC&sideLabels=C9D1D9&dates=8B949E" alt="Streak"/>
+  I'm at the beginning of my programming journey, and I'm preparing to turn what I learn into practical projects.
 
-<br/><br/>
+  **Stay tuned! More projects will be added as I grow.** 🚀
 
-<img src="https://raw.githubusercontent.com/Daliikhlas/Daliikhlas/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+  <br/>
+
+  <a href="https://github.com/Daliikhlas?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My-Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <a href="https://github.com/Daliikhlas">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Daliikhlas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=bb86fc&icon_color=00c6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true" alt="Ikhlas's GitHub Statistics"/>
+  </a>
+
+  <a href="https://github.com/Daliikhlas">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daliikhlas&layout=compact&hide_border=true&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9" alt="Top Languages"/>
+  </a>
+
+  <br/><br/>
+
+  <img width="75%" src="https://streak-stats.demolab.com?user=Daliikhlas&theme=transparent&hide_border=true&background=0D1117&ring=8957E5&fire=00C6FF&currStreakLabel=BB86FC&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak"/>
+
+</div>
+
+## 🐍 My Contribution Journey
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Daliikhlas/Daliikhlas/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+  <sub>Every contribution is a step forward in my learning journey.</sub>
 
 </div>
 
@@ -133,40 +170,46 @@ I'm turning what I learn into practical projects. New repositories will appear h
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Arabic-Native-16a34a?style=for-the-badge" alt="Arabic"/>
-<img src="https://img.shields.io/badge/English-Improving-2563eb?style=for-the-badge" alt="English"/>
+  <img src="https://img.shields.io/badge/Arabic-Native-16a34a?style=for-the-badge" alt="Arabic native"/>
+  <img src="https://img.shields.io/badge/English-Conversational-2563eb?style=for-the-badge" alt="English conversational"/>
 
 </div>
 
-## 💜 Mindset
+## 💜 A Little About My Mindset
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Dream%20big%2C%20code%20with%20passion%2C%20and%20build%20the%20future%20you%20imagine.&author=Ikhlas%20Dali" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Dream%20big%2C%20code%20with%20passion%2C%20and%20build%20the%20future%20you%20imagine.&author=Ikhlas%20Dali" alt="Personal motivational quote"/>
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://img.shields.io/badge/Mindset-Ambitious-8957e5?style=flat-square" alt="Ambitious"/>
-<img src="https://img.shields.io/badge/Journey-Always%20Learning-00c6ff?style=flat-square" alt="Always learning"/>
-<img src="https://img.shields.io/badge/Goal-Future%20Engineer-8957e5?style=flat-square" alt="Future engineer"/>
+  <img src="https://img.shields.io/badge/Mindset-Ambitious-8957e5?style=flat-square" alt="Ambitious"/>
+  <img src="https://img.shields.io/badge/Journey-Always%20Learning-00c6ff?style=flat-square" alt="Always learning"/>
+  <img src="https://img.shields.io/badge/Goal-Future%20Engineer-8957e5?style=flat-square" alt="Future engineer"/>
 
 </div>
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect!
 
 <div align="center">
 
-Always happy to connect with fellow students, developers, and tech enthusiasts.
+  I'm always happy to connect with fellow students, developers, and technology enthusiasts.
 
-<br/>
+  <br/><br/>
 
-<a href="https://github.com/Daliikhlas"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/dali-ikhlas-8259b1387/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://github.com/Daliikhlas">
+    <img src="assets/github-button.svg" width="280" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dali-ikhlas-8259b1387/">
+    <img src="assets/linkedin-button.svg" width="280" alt="LinkedIn"/>
+  </a>
 
-<br/><br/>
+  <br/><br/>
 
-<i>Thanks for visiting! Let's learn, grow, and build the future together. 💜</i>
+  <i>Thank you for visiting my profile! Let's learn, grow, and build the future together. 💜</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,40:30105c,75:1457a6,100:090014&height=130&section=footer" width="100%" alt="Footer"/>
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,40:30105c,75:1457a6,100:090014&height=130&section=footer" width="100%" alt="Footer"/>
 
 </div>
