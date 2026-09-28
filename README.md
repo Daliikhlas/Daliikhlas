@@ -1,103 +1,91 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! 👋 I'm Dali Ikhlass
+
+<h3 align="center">🎓 Computer Science Engineering Student | 💻 Aspiring Software Engineer</h3>
+
 <p align="center">
-  <a href="https://x.com/apoorv__tyagi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="https://linkedin.com/in/apoorvtyagi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="http://discord.com/users/apoorv#4040" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="https://www.buymeacoffee.com/apoorvtyagi">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/buymeacoffee.svg" height="30" style="display:inline-block;" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!+%F0%9F%92%9C;Computer+Science+Engineering+Student+%F0%9F%8E%93;Learning%2C+Coding+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Senior Software Engineer working at PayPay 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I write technical articles at [apoorvtyagi.tech](https://apoorvtyagi.tech/)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-- 🧑‍💻 Tech I work on :
-
 <p align="center">
-      <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,py,spring,nodejs,git,kubernetes,elasticsearch,azure,aws,docker,mysql,mongodb" />
-      </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding animation" />
 </p>
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2019%20mins-blue?style=flat)
+## 🌸 About Me
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2038%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-🌆 Daytime                426 commits         ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-🌃 Evening                768 commits         █████████████░░░░░░░░░░░░   50.16 % 
-🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Tuesday                  190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Wednesday                95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Saturday                 292 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.18 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress:** { ██████████████████████▁▁▁▁▁▁▁▁ } 74.00% as on ⏰ 28-Sep-2026
+- 🎓 I'm **Dali Ikhlass**, a Computer Science Engineering student.
+- 💻 I'm at the beginning of my programming journey.
+- 🌱 Currently learning programming and exploring the world of software development.
+- 🚀 Passionate about technology, problem-solving, and continuous learning.
+- 🧠 My goal is to become a skilled software engineer and build useful projects.
+- 🌍 Based in Algeria 🇩🇿
+- ✨ Every expert was once a beginner!
 
 ---
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [What is Jib? A Complete Guide to Java Containerization Without Dockerfiles](https://apoorvtyagi.tech/what-is-jib-a-complete-guide-to-java-containerization-without-dockerfiles)
-- [Kafka Consumer Container Restarts in Kubernetes: A Production Case Study](https://apoorvtyagi.tech/kafka-consumer-container-restarts-in-kubernetes-a-production-case-study)
-- [How we solved cache invalidation in Kubernetes with a headless service](https://apoorvtyagi.tech/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service)
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
-<!-- BLOG-POST-LIST:END -->
+## 🛠️ My Tech Journey
 
-▶ [... view more](https://apoorvtyagi.tech/)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode&perline=5" alt="Technologies to explore" />
+</p>
+
+<p align="center"><i>Technologies I'm exploring and planning to learn — not all are current skills.</i></p>
 
 ---
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   </i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's a Pinch of Humour:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
+## 🎯 My Goals
 
+- 📚 Strengthen my programming fundamentals.
+- 💡 Learn new technologies and development tools.
+- 🧩 Improve my problem-solving skills.
+- 🛠️ Build my first personal projects.
+- 🤝 Collaborate with other developers and students.
+- 🚀 Grow into a confident software engineer.
+
+---
+
+## 🌷 A Little About Me
+
+- 💜 I believe in learning something new every day.
+- ☕ Coffee, code, and creativity.
+- 🌱 Small steps lead to big achievements.
+- ✨ Dream big, start small, and keep going!
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Inspirational quote" />
+</p>
+
+<h3 align="center">💜 Thanks for visiting my profile! Let's learn and grow together. 🚀</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
