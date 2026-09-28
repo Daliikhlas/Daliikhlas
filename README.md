@@ -14,10 +14,10 @@
   <br/><br/>
 
   <a href="https://github.com/Daliikhlas">
-    <img src="assets/github-button.svg" width="280" alt="GitHub"/>
+    <img src="assets/badges/github-daliikhlas.svg" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/dali-ikhlas-8259b1387/">
-    <img src="assets/linkedin-button.svg" width="280" alt="LinkedIn"/>
+    <img src="assets/badges/linkedin-connect.svg" alt="LinkedIn"/>
   </a>
 
   <br/><br/>
@@ -68,9 +68,9 @@ I'm currently in my **second year of university**, beginning my journey into pro
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Python-Currently%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python learning"/>
-  <img src="https://img.shields.io/badge/Java-Currently%20Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java learning"/>
-  <img src="https://img.shields.io/badge/C-Currently%20Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C learning"/>
+  <img src="assets/badges/python.svg" alt="Python learning"/>
+  <img src="assets/badges/java.svg" alt="Java learning"/>
+  <img src="assets/badges/c.svg" alt="C learning"/>
 
   <br/><br/>
 
@@ -122,7 +122,7 @@ I'm currently in my **second year of university**, beginning my journey into pro
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Projects-Coming%20Soon-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Projects coming soon"/>
+  <img src="assets/badges/projects.svg" alt="Projects coming soon"/>
 
   <br/><br/>
 
@@ -133,7 +133,7 @@ I'm currently in my **second year of university**, beginning my journey into pro
   <br/>
 
   <a href="https://github.com/Daliikhlas?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My-Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+    <img src="assets/badges/repositories.svg" alt="Explore repositories"/>
   </a>
 
 </div>
@@ -170,8 +170,8 @@ I'm currently in my **second year of university**, beginning my journey into pro
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Arabic-Native-16a34a?style=for-the-badge" alt="Arabic native"/>
-  <img src="https://img.shields.io/badge/English-Conversational-2563eb?style=for-the-badge" alt="English conversational"/>
+  <img src="assets/badges/arabic.svg" alt="Arabic native"/>
+  <img src="assets/badges/english.svg" alt="English conversational"/>
 
 </div>
 
@@ -183,9 +183,9 @@ I'm currently in my **second year of university**, beginning my journey into pro
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Mindset-Ambitious-8957e5?style=flat-square" alt="Ambitious"/>
-  <img src="https://img.shields.io/badge/Journey-Always%20Learning-00c6ff?style=flat-square" alt="Always learning"/>
-  <img src="https://img.shields.io/badge/Goal-Future%20Engineer-8957e5?style=flat-square" alt="Future engineer"/>
+  <img src="assets/badges/mindset.svg" alt="Ambitious"/>
+  <img src="assets/badges/journey.svg" alt="Always learning"/>
+  <img src="assets/badges/goal.svg" alt="Future engineer"/>
 
 </div>
 
@@ -198,10 +198,10 @@ I'm currently in my **second year of university**, beginning my journey into pro
   <br/><br/>
 
   <a href="https://github.com/Daliikhlas">
-    <img src="assets/github-button.svg" width="280" alt="GitHub"/>
+    <img src="assets/badges/github-follow.svg" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/dali-ikhlas-8259b1387/">
-    <img src="assets/linkedin-button.svg" width="280" alt="LinkedIn"/>
+    <img src="assets/badges/linkedin-lets-connect.svg" alt="LinkedIn"/>
   </a>
 
   <br/><br/>
